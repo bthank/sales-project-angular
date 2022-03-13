@@ -13,7 +13,7 @@ export class SalesPersonListComponent implements OnInit {
     new SalesPerson("John","Smith", "john.smith@gmail.com",110050),
     new SalesPerson("Mary","Poler", "mary.poler@gmail.com",51900),
     new SalesPerson("Alice","Devries", "alice.devries@yahoo.com",73720),
-    new SalesPerson("Tom","Kelly", "tom.kelly@gmail.com",44500)
+    new SalesPerson("Tom","Kelly", "tom.kelly@gmail.com",60000)
   ];
 
 
